@@ -11,8 +11,9 @@ how we as *programming animals* relate to and work with those towering edifices 
 mathematics we like to call code-bases. That and an old academic catalog are pretty much responsible for the "booze-tools" module (which was named as an oblique pun on "Java").
 
 I currently work for a large bank in the corporate investing line of business.
-I'm part-time manager for some junior programmers, part-time software engineer,
-and full-time advocate for developer quality-of-life, which connects intimately with all the things our employers and clients care about.
+Officially, I manage some junior programmers and spend the rest of the time on "software engineering", such as it is.
+I also run a local-office knowledge-sharing community and loudly advocate for developer quality-of-life,
+which connects intimately with all the things our employers and clients care about.
 
 I am inordinately interested in programming languages. My current focus during free time is Sophie.
 Previous long-running projects have inspired some of the more domain-specific things you see below.

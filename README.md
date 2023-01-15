@@ -1,6 +1,4 @@
-## Hi there 👋
-
-We who are about to code, salute you!
+## We who are about to code, salute you! 👋
 
 
 ### 🔭 I’m currently working on ...
